@@ -1,0 +1,62 @@
+F:\School\Mustech (bsc)\Year 3\Final Project\Kinect C# projects\Test\Bitmap_test_1\Naturally_Evolving_Sounds_From_Life\bin\Debug\Naturally_Evolving_Sounds_From_Life.exe
+F:\School\Mustech (bsc)\Year 3\Final Project\Kinect C# projects\Test\Bitmap_test_1\Naturally_Evolving_Sounds_From_Life\bin\Debug\Naturally_Evolving_Sounds_From_Life.pdb
+F:\School\Mustech (bsc)\Year 3\Final Project\Kinect C# projects\Test\Bitmap_test_1\Naturally_Evolving_Sounds_From_Life\bin\Debug\Midi.dll
+F:\School\Mustech (bsc)\Year 3\Final Project\Kinect C# projects\Test\Bitmap_test_1\Naturally_Evolving_Sounds_From_Life\bin\Debug\Midi.xml
+F:\School\Mustech (bsc)\Year 3\Final Project\Kinect C# projects\Test\Bitmap_test_1\Naturally_Evolving_Sounds_From_Life\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\School\Mustech (bsc)\Year 3\Final Project\Kinect C# projects\Test\Bitmap_test_1\Naturally_Evolving_Sounds_From_Life\obj\x86\Debug\MainWindow.baml
+F:\School\Mustech (bsc)\Year 3\Final Project\Kinect C# projects\Test\Bitmap_test_1\Naturally_Evolving_Sounds_From_Life\obj\x86\Debug\MainWindow.g.cs
+F:\School\Mustech (bsc)\Year 3\Final Project\Kinect C# projects\Test\Bitmap_test_1\Naturally_Evolving_Sounds_From_Life\obj\x86\Debug\App.g.cs
+F:\School\Mustech (bsc)\Year 3\Final Project\Kinect C# projects\Test\Bitmap_test_1\Naturally_Evolving_Sounds_From_Life\obj\x86\Debug\Naturally_Evolving_Sounds_From_Life_MarkupCompile.cache
+F:\School\Mustech (bsc)\Year 3\Final Project\Kinect C# projects\Test\Bitmap_test_1\Naturally_Evolving_Sounds_From_Life\obj\x86\Debug\Naturally_Evolving_Sounds_From_Life.g.resources
+F:\School\Mustech (bsc)\Year 3\Final Project\Kinect C# projects\Test\Bitmap_test_1\Naturally_Evolving_Sounds_From_Life\obj\x86\Debug\Naturally_Evolving_Sounds_From_Life.Properties.Resources.resources
+F:\School\Mustech (bsc)\Year 3\Final Project\Kinect C# projects\Test\Bitmap_test_1\Naturally_Evolving_Sounds_From_Life\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\School\Mustech (bsc)\Year 3\Final Project\Kinect C# projects\Test\Bitmap_test_1\Naturally_Evolving_Sounds_From_Life\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\School\Mustech (bsc)\Year 3\Final Project\Kinect C# projects\Test\Bitmap_test_1\Naturally_Evolving_Sounds_From_Life\obj\x86\Debug\Naturally_Evolving_Sounds_From_Life.exe
+F:\School\Mustech (bsc)\Year 3\Final Project\Kinect C# projects\Test\Bitmap_test_1\Naturally_Evolving_Sounds_From_Life\obj\x86\Debug\Naturally_Evolving_Sounds_From_Life.pdb
+\\userfs\es733\w2k\Desktop\Bitmap_test_1\Naturally_Evolving_Sounds_From_Life\obj\x86\Debug\Naturally_Evolving_Sounds_From_Life.exe
+\\userfs\es733\w2k\Desktop\Bitmap_test_1\Naturally_Evolving_Sounds_From_Life\obj\x86\Debug\Naturally_Evolving_Sounds_From_Life.pdb
+\\userfs\es733\w2k\Desktop\Bitmap_test_1\Naturally_Evolving_Sounds_From_Life\bin\Debug\Naturally_Evolving_Sounds_From_Life.exe
+\\userfs\es733\w2k\Desktop\Bitmap_test_1\Naturally_Evolving_Sounds_From_Life\bin\Debug\Naturally_Evolving_Sounds_From_Life.pdb
+\\userfs\es733\w2k\Desktop\Bitmap_test_1\Naturally_Evolving_Sounds_From_Life\bin\Debug\Midi.xml
+\\userfs\es733\w2k\Desktop\Bitmap_test_1\Naturally_Evolving_Sounds_From_Life\obj\x86\Debug\ResolveAssemblyReference.cache
+\\userfs\es733\w2k\Desktop\Bitmap_test_1\Naturally_Evolving_Sounds_From_Life\obj\x86\Debug\MainWindow.baml
+\\userfs\es733\w2k\Desktop\Bitmap_test_1\Naturally_Evolving_Sounds_From_Life\obj\x86\Debug\MainWindow.g.cs
+\\userfs\es733\w2k\Desktop\Bitmap_test_1\Naturally_Evolving_Sounds_From_Life\obj\x86\Debug\App.g.cs
+\\userfs\es733\w2k\Desktop\Bitmap_test_1\Naturally_Evolving_Sounds_From_Life\obj\x86\Debug\Naturally_Evolving_Sounds_From_Life_MarkupCompile.cache
+\\userfs\es733\w2k\Desktop\Bitmap_test_1\Naturally_Evolving_Sounds_From_Life\obj\x86\Debug\Naturally_Evolving_Sounds_From_Life.g.resources
+\\userfs\es733\w2k\Desktop\Bitmap_test_1\Naturally_Evolving_Sounds_From_Life\obj\x86\Debug\Naturally_Evolving_Sounds_From_Life.Properties.Resources.resources
+\\userfs\es733\w2k\Desktop\Bitmap_test_1\Naturally_Evolving_Sounds_From_Life\obj\x86\Debug\GenerateResource.read.1.tlog
+\\userfs\es733\w2k\Desktop\Bitmap_test_1\Naturally_Evolving_Sounds_From_Life\obj\x86\Debug\GenerateResource.write.1.tlog
+M:\Bitmap_test_1\Naturally_Evolving_Sounds_From_Life\obj\x86\Debug\Naturally_Evolving_Sounds_From_Life.exe
+M:\Bitmap_test_1\Naturally_Evolving_Sounds_From_Life\obj\x86\Debug\Naturally_Evolving_Sounds_From_Life.pdb
+M:\Bitmap_test_1\Naturally_Evolving_Sounds_From_Life\obj\x86\Debug\ResolveAssemblyReference.cache
+M:\Bitmap_test_1\Naturally_Evolving_Sounds_From_Life\obj\x86\Debug\MainWindow.baml
+M:\Bitmap_test_1\Naturally_Evolving_Sounds_From_Life\obj\x86\Debug\MainWindow.g.cs
+M:\Bitmap_test_1\Naturally_Evolving_Sounds_From_Life\obj\x86\Debug\App.g.cs
+M:\Bitmap_test_1\Naturally_Evolving_Sounds_From_Life\obj\x86\Debug\Naturally_Evolving_Sounds_From_Life_MarkupCompile.cache
+M:\Bitmap_test_1\Naturally_Evolving_Sounds_From_Life\obj\x86\Debug\Naturally_Evolving_Sounds_From_Life.g.resources
+M:\Bitmap_test_1\Naturally_Evolving_Sounds_From_Life\obj\x86\Debug\Naturally_Evolving_Sounds_From_Life.Properties.Resources.resources
+M:\Bitmap_test_1\Naturally_Evolving_Sounds_From_Life\obj\x86\Debug\GenerateResource.read.1.tlog
+M:\Bitmap_test_1\Naturally_Evolving_Sounds_From_Life\obj\x86\Debug\GenerateResource.write.1.tlog
+M:\Bitmap_test_1\Naturally_Evolving_Sounds_From_Life\bin\Debug\Naturally_Evolving_Sounds_From_Life.exe
+M:\Bitmap_test_1\Naturally_Evolving_Sounds_From_Life\bin\Debug\Naturally_Evolving_Sounds_From_Life.pdb
+M:\Bitmap_test_1\Naturally_Evolving_Sounds_From_Life\bin\Debug\Midi.xml
+D:\School\Mustech (bsc)\Year 3\Final Project\Kinect C# projects\Test\Bitmap_test_1\Naturally_Evolving_Sounds_From_Life\obj\x86\Debug\Naturally_Evolving_Sounds_From_Life.exe
+D:\School\Mustech (bsc)\Year 3\Final Project\Kinect C# projects\Test\Bitmap_test_1\Naturally_Evolving_Sounds_From_Life\obj\x86\Debug\Naturally_Evolving_Sounds_From_Life.pdb
+E:\School\Mustech (bsc)\Year 3\Final Project\Kinect C# projects\Test\Bitmap_test_1\Naturally_Evolving_Sounds_From_Life\obj\x86\Debug\Naturally_Evolving_Sounds_From_Life.exe
+E:\School\Mustech (bsc)\Year 3\Final Project\Kinect C# projects\Test\Bitmap_test_1\Naturally_Evolving_Sounds_From_Life\obj\x86\Debug\Naturally_Evolving_Sounds_From_Life.pdb
+H:\School\Mustech (bsc)\Year 3\Final Project\Kinect C# projects\Test\Bitmap_test_1\Naturally_Evolving_Sounds_From_Life\obj\x86\Debug\Naturally_Evolving_Sounds_From_Life.exe
+H:\School\Mustech (bsc)\Year 3\Final Project\Kinect C# projects\Test\Bitmap_test_1\Naturally_Evolving_Sounds_From_Life\obj\x86\Debug\Naturally_Evolving_Sounds_From_Life.pdb
+C:\Users\Ed\Documents\GitHub\Naturally_Evolving_Sounds_From_Life\obj\x86\Debug\Naturally_Evolving_Sounds_From_Life.exe
+C:\Users\Ed\Documents\GitHub\Naturally_Evolving_Sounds_From_Life\obj\x86\Debug\Naturally_Evolving_Sounds_From_Life.pdb
+C:\Users\Ed\Documents\GitHub\Naturally_Evolving_Sounds_From_Life\bin\Debug\Naturally_Evolving_Sounds_From_Life.exe
+C:\Users\Ed\Documents\GitHub\Naturally_Evolving_Sounds_From_Life\bin\Debug\Naturally_Evolving_Sounds_From_Life.pdb
+C:\Users\Ed\Documents\GitHub\Naturally_Evolving_Sounds_From_Life\bin\Debug\Midi.xml
+C:\Users\Ed\Documents\GitHub\Naturally_Evolving_Sounds_From_Life\obj\x86\Debug\Naturally_Evolving_Sounds_From_Life.csprojResolveAssemblyReference.cache
+C:\Users\Ed\Documents\GitHub\Naturally_Evolving_Sounds_From_Life\obj\x86\Debug\MainWindow.baml
+C:\Users\Ed\Documents\GitHub\Naturally_Evolving_Sounds_From_Life\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Ed\Documents\GitHub\Naturally_Evolving_Sounds_From_Life\obj\x86\Debug\App.g.cs
+C:\Users\Ed\Documents\GitHub\Naturally_Evolving_Sounds_From_Life\obj\x86\Debug\Naturally_Evolving_Sounds_From_Life_MarkupCompile.cache
+C:\Users\Ed\Documents\GitHub\Naturally_Evolving_Sounds_From_Life\obj\x86\Debug\Naturally_Evolving_Sounds_From_Life.g.resources
+C:\Users\Ed\Documents\GitHub\Naturally_Evolving_Sounds_From_Life\obj\x86\Debug\Naturally_Evolving_Sounds_From_Life.Properties.Resources.resources
+C:\Users\Ed\Documents\GitHub\Naturally_Evolving_Sounds_From_Life\obj\x86\Debug\Naturally_Evolving_Sounds_From_Life.csproj.GenerateResource.Cache
