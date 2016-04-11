@@ -47,16 +47,3 @@ E:\School\Mustech (bsc)\Year 3\Final Project\Kinect C# projects\Test\Bitmap_test
 E:\School\Mustech (bsc)\Year 3\Final Project\Kinect C# projects\Test\Bitmap_test_1\Naturally_Evolving_Sounds_From_Life\obj\x86\Debug\Naturally_Evolving_Sounds_From_Life.pdb
 H:\School\Mustech (bsc)\Year 3\Final Project\Kinect C# projects\Test\Bitmap_test_1\Naturally_Evolving_Sounds_From_Life\obj\x86\Debug\Naturally_Evolving_Sounds_From_Life.exe
 H:\School\Mustech (bsc)\Year 3\Final Project\Kinect C# projects\Test\Bitmap_test_1\Naturally_Evolving_Sounds_From_Life\obj\x86\Debug\Naturally_Evolving_Sounds_From_Life.pdb
-C:\Users\Ed\Documents\GitHub\Naturally_Evolving_Sounds_From_Life\obj\x86\Debug\Naturally_Evolving_Sounds_From_Life.exe
-C:\Users\Ed\Documents\GitHub\Naturally_Evolving_Sounds_From_Life\obj\x86\Debug\Naturally_Evolving_Sounds_From_Life.pdb
-C:\Users\Ed\Documents\GitHub\Naturally_Evolving_Sounds_From_Life\bin\Debug\Naturally_Evolving_Sounds_From_Life.exe
-C:\Users\Ed\Documents\GitHub\Naturally_Evolving_Sounds_From_Life\bin\Debug\Naturally_Evolving_Sounds_From_Life.pdb
-C:\Users\Ed\Documents\GitHub\Naturally_Evolving_Sounds_From_Life\bin\Debug\Midi.xml
-C:\Users\Ed\Documents\GitHub\Naturally_Evolving_Sounds_From_Life\obj\x86\Debug\Naturally_Evolving_Sounds_From_Life.csprojResolveAssemblyReference.cache
-C:\Users\Ed\Documents\GitHub\Naturally_Evolving_Sounds_From_Life\obj\x86\Debug\MainWindow.baml
-C:\Users\Ed\Documents\GitHub\Naturally_Evolving_Sounds_From_Life\obj\x86\Debug\MainWindow.g.cs
-C:\Users\Ed\Documents\GitHub\Naturally_Evolving_Sounds_From_Life\obj\x86\Debug\App.g.cs
-C:\Users\Ed\Documents\GitHub\Naturally_Evolving_Sounds_From_Life\obj\x86\Debug\Naturally_Evolving_Sounds_From_Life_MarkupCompile.cache
-C:\Users\Ed\Documents\GitHub\Naturally_Evolving_Sounds_From_Life\obj\x86\Debug\Naturally_Evolving_Sounds_From_Life.g.resources
-C:\Users\Ed\Documents\GitHub\Naturally_Evolving_Sounds_From_Life\obj\x86\Debug\Naturally_Evolving_Sounds_From_Life.Properties.Resources.resources
-C:\Users\Ed\Documents\GitHub\Naturally_Evolving_Sounds_From_Life\obj\x86\Debug\Naturally_Evolving_Sounds_From_Life.csproj.GenerateResource.Cache
