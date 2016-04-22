@@ -1,5 +1,7 @@
 # Naturally_Evolving_Sounds_From_Life
 
+My undergraduate Final Project.
+
 Naturally evolving sounds from Life creates music based on Conway's Game of Life.
 
 The music can be manipulated using the Xbox Kinect as an alternate interface to a mouse and keyboard.
